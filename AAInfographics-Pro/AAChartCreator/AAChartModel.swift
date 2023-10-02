@@ -535,32 +535,32 @@ public class AAChartModel: AAObject {
     
     
 
-    @available(*, unavailable, message: "please use titleStyle instead of it")
-    public var titleFontColor: String?      //The chart title font color
-    @available(*, unavailable, message: "please use titleStyle instead of it")
-    public var titleFontSize: Float?        //The chart title font size
-    @available(*, unavailable, message: "please use titleStyle instead of it")
-    public var titleFontWeight: AAChartFontWeightType? //The chart font weight
-
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
-    public var subtitleFontColor: String?   //The chart subtitle font color
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
-    public var subtitleFontSize: Float?     //The chart subtitle font size
-    @available(*, unavailable, message: "please use subtitleStyle instead of it")
-    public var subtitleFontWeight: AAChartFontWeightType?   //The chart subtitle font weight
-
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
-    public var dataLabelsFontColor: String? //The data labels font color
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
-    public var dataLabelsFontSize: Float?   //The data labels font size
-    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
-    public var dataLabelsFontWeight: AAChartFontWeightType?//The data labels font weight
-    
-    @available(*, unavailable, message: "please use xAxisLabelsStyle or yAxisLabelsStyle instead of it")
-    public var axesTextColor: String?       //The labels font color of chart x axis and y axis
-
-    @available(*, unavailable, message: "This property is useless now, please remove it directly")
-    public var touchEventEnabled: Bool?     //Support touch event call back or not
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    public var titleFontColor: String?      //The chart title font color
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    public var titleFontSize: Float?        //The chart title font size
+//    @available(*, unavailable, message: "please use titleStyle instead of it")
+//    public var titleFontWeight: AAChartFontWeightType? //The chart font weight
+//
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    public var subtitleFontColor: String?   //The chart subtitle font color
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    public var subtitleFontSize: Float?     //The chart subtitle font size
+//    @available(*, unavailable, message: "please use subtitleStyle instead of it")
+//    public var subtitleFontWeight: AAChartFontWeightType?   //The chart subtitle font weight
+//
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    public var dataLabelsFontColor: String? //The data labels font color
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    public var dataLabelsFontSize: Float?   //The data labels font size
+//    @available(*, unavailable, message: "please use dataLabelsStyle instead of it")
+//    public var dataLabelsFontWeight: AAChartFontWeightType?//The data labels font weight
+//    
+//    @available(*, unavailable, message: "please use xAxisLabelsStyle or yAxisLabelsStyle instead of it")
+//    public var axesTextColor: String?       //The labels font color of chart x axis and y axis
+//
+//    @available(*, unavailable, message: "This property is useless now, please remove it directly")
+//    public var touchEventEnabled: Bool?     //Support touch event call back or not
 
     
     @available(*, unavailable, message: "please use titleStyle instead of it")
